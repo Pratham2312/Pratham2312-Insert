@@ -14,3 +14,10 @@ EOF
 chmod +x .git/hooks/post-commit
 code --uninstall-extension revature-labs-non-prod.revature-angular-labs-non-prod && code --uninstall-extension hbenl.vscode-test-explorer && code --uninstall-extension ms-vscode.test-adapter-converter &&  code --uninstall-extension vscjava.vscode-java-test
 code --install-extension redhat.java@1.35.1 && code --install-extension revaturePro.revature-labs
+
+
+Extension Name	Publisher	Version
+Language Support for Java(TM)	Red Hat	v1.35.1
+Debugger for Java	Microsoft	v0.58.1
+revature-labs	Revature	v0.0.5
+revature-python-labs	Revature	v0.0.2
